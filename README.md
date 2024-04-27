@@ -6,5 +6,7 @@ Leveraging APIs for dynamic data retrieval and incorporating locally stored exch
 Features:
 
 Integration of external APIs for live exchange rate data.
+<br>
 User-friendly interface for easy navigation and intuitive currency conversion.
+<br>
 Comprehensive documentation for straightforward implementation and usage.
